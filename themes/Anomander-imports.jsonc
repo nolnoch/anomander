@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Anomander",
 	"type": "dark",
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
@@ -44,7 +43,7 @@
 		"editor.findMatchHighlightBackground": "#936edd9b",
 		"editor.findMatchHighlightForeground": "#21478de5",
 		"editor.foreground": "#cccccc",
-		"editor.inactiveSelectionBackground": "#3a3d4140",
+		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.lineHighlightBorder": "#604eff2d",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorBracketHighlight.foreground1": "#d9d9d9",
@@ -75,12 +74,12 @@
 		"focusBorder": "#604eff",
 		"foreground": "#cccccc",
 		"gitDecoration.addedResourceForeground": "#00ab1de3",
-		"gitDecoration.conflictingResourceForeground": "#df9500e0",
-		"gitDecoration.deletedResourceForeground": "#ae0000cb",
+		"gitDecoration.conflictingResourceForeground": "#ddac49e0",
+		"gitDecoration.deletedResourceForeground": "#a74343cb",
 		"gitDecoration.ignoredResourceForeground": "#454cac",
-		"gitDecoration.modifiedResourceForeground": "#cad100da",
-		"gitDecoration.renamedResourceForeground": "#0046c9dc",
-		"gitDecoration.untrackedResourceForeground": "#00ab1de3",
+		"gitDecoration.modifiedResourceForeground": "#c6c96ada",
+		"gitDecoration.renamedResourceForeground": "#4573c7dc",
+		"gitDecoration.untrackedResourceForeground": "#46a856e3",
 		"icon.foreground": "#cccccc",
 		"input.background": "#313131",
 		"input.border": "#3c3c3c",
@@ -379,7 +378,7 @@
 		//"editorMarkerNavigationInfo.background": "#3794ff",
 		//"editorMarkerNavigationInfo.headerBackground": "#3794ff1a",
 		//"editorMarkerNavigationWarning.background": "#df9500e0",
-		//"editorMarkerNavigationWarning.headerBackground": "#dfa00016",
+		//"editorMarkerNavigationWarning.headerBackground": "#df950016",
 		//"editorMultiCursor.primary.foreground": "#aeafad",
 		//"editorMultiCursor.secondary.foreground": "#aeafad",
 		//"editorOverviewRuler.addedForeground": "#2ea04399",
@@ -442,14 +441,14 @@
 		//"gitlens.decorations.branchMissingUpstreamForegroundColor": "#c74e39",
 		//"gitlens.decorations.branchUnpublishedForegroundColor": "#7291b4",
 		//"gitlens.decorations.branchUpToDateForegroundColor": "#7291b4",
-		//"gitlens.decorations.copiedForegroundColor": "#0046c9dc",
-		//"gitlens.decorations.deletedForegroundColor": "#ae0000cb",
+		//"gitlens.decorations.copiedForegroundColor": "#4573c7dc",
+		//"gitlens.decorations.deletedForegroundColor": "#a74343cb",
 		//"gitlens.decorations.ignoredForegroundColor": "#454cac",
-		//"gitlens.decorations.modifiedForegroundColor": "#cad100da",
-		//"gitlens.decorations.renamedForegroundColor": "#0046c9dc",
+		//"gitlens.decorations.modifiedForegroundColor": "#c6c96ada",
+		//"gitlens.decorations.renamedForegroundColor": "#4573c7dc",
 		//"gitlens.decorations.statusMergingOrRebasingConflictForegroundColor": "#c74e39",
 		//"gitlens.decorations.statusMergingOrRebasingForegroundColor": "#d8af1b",
-		//"gitlens.decorations.untrackedForegroundColor": "#00ab1de3",
+		//"gitlens.decorations.untrackedForegroundColor": "#46a856e3",
 		//"gitlens.decorations.workspaceCurrentForegroundColor": "#35b15e",
 		//"gitlens.decorations.workspaceRepoMissingForegroundColor": "#909090",
 		//"gitlens.decorations.workspaceRepoOpenForegroundColor": "#35b15e",
@@ -705,7 +704,7 @@
 		//"statusBarItem.prominentHoverForeground": "#00bdaa",
 		//"statusBarItem.remoteHoverBackground": "#121219",
 		//"statusBarItem.remoteHoverForeground": "#00bdaa",
-		//"statusBarItem.warningBackground": "#866000e0",
+		//"statusBarItem.warningBackground": "#865900e0",
 		//"statusBarItem.warningForeground": "#ffffff",
 		//"statusBarItem.warningHoverBackground": "#121219",
 		//"statusBarItem.warningHoverForeground": "#00bdaa",
@@ -920,57 +919,6 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
-	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"newOperator": {
-			"foreground": "#007082",
-			"bold": true
-		},
-		"macro": {
-			"foreground": "#6f2f2f",
-			"bold": true
-		},
-		"namespace": {
-			"foreground": "#21478d",
-			"bold": true
-		},
-		"type": {
-			"foreground": "#3c75df"
-		},
-		"variable.local": {
-			"foreground": "#7eb0ea"
-		},
-		"variable.global": {
-			"foreground": "#bc80c8"
-		},
-		"variable.readonly": {
-			"foreground": "#7eb0ea",
-			"bold": true
-		},
-		"parameter": {
-			"foreground": "#7eb0ea",
-			"underline": true
-		},
-		"property": {
-			"foreground": "#4f7eb0"
-		},
-		"method": {
-			"foreground": "#37afa3",
-			"bold": false
-		},
-		"templateType": {
-			"foreground": "#37afa3",
-			"bold": false
-		},
-		"function": {
-			"foreground": "#37afa3",
-			"bold": false
-		},
-		"templateFunction": {
-			"foreground": "#37afa3",
-			"bold": false
-		}
-    },
 	"tokenColors": [
 		{
 			"scope": [
