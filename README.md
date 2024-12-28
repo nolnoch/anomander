@@ -1,16 +1,21 @@
-# anomander README
+# README
 
-## Working with Markdown
+## Anomander Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Inspired by the high-fantasy equivalent of "XxSephirothxX": Anomander Rake from Malazan Book of the Fallen series by Steven Erikson and Ian C. Esslemont.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Very dark, low-contrast theme anchored primarily in blue, green, and purple. Accents in white, gray, pink, and red to break up the monotony.
 
-## For more information
+Syntax and symantic colouring based on C/C++. Works (but may not be currently ideal) for CMake, JSON, and Python.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Tested (and currently used) on four monitors, across Linux/Windows PC and MacBook Pro.
 
-**Enjoy!**
+Uses color shades extensively, so **not ideal for colour-blindness**.
+
+## Suggestions & Contributions
+
+I am more than open to feedback, as I do want this to be as robust as possible, but this is a highly personal project, so I do not guarantee that all feedback will be incorporated.
+
+You are more than welcome to fork, copy, or otherwise yank and iterate on it.
+
+Happy coding!
