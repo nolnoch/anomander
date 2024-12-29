@@ -2,7 +2,9 @@
 
 ## Anomander Theme
 
-Inspired by the high-fantasy equivalent of "xXSephirothXx": Anomander Rake from Malazan Book of the Fallen series by Steven Erikson and Ian C. Esslemont.
+![Screenshot 2024-12-28 170141](https://github.com/user-attachments/assets/853d3706-25ae-468c-9d18-07becfc56449)
+
+Inspired by the epic, high-fantasy equivalent of "xXSephirothXx": [Anomander Rake](https://malazan.fandom.com/wiki/Anomander_Rake) from [Malazan Book of the Fallen](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen) series by Steven Erikson and Ian C. Esslemont.
 
 Very dark, low-contrast theme anchored primarily in blue, green, and purple. Accents in white, gray, pink, and red to break up the monotony.
 
@@ -10,7 +12,7 @@ Syntax and symantic colouring based on C/C++. Works (but may not be currently id
 
 Tested (and currently used) on four monitors, across Linux/Windows PC and MacBook Pro.
 
-Uses color shades extensively, so **not ideal for colour-blindness**.
+Uses color shades extensively, so **<ins>not ideal for colour-blindness</ins>**.
 
 ## Planned Features
 
