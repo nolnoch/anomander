@@ -3,12 +3,16 @@
   "displayName": "Anomander",
   "description": "Dark theme in cool (blue, green, purple) colours with (white, gray, red) accents primarily made for C/C++, inspired by Anomander from Malazan Book of the Fallen.",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.96.0"
-  },
+  "publisher": "nolnoch",
+  "author": "nolnoch",
+  "icon": "anomander.png",
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
+  "engines": {
+    "vscode": "^1.96.0"
+  },
   "contributes": {
     "themes": [
       {
