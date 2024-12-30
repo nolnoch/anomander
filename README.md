@@ -1,6 +1,4 @@
-# README
-
-## Anomander Theme
+# Anomander Theme
 
 ![Screenshot 2024-12-28 170141](https://github.com/user-attachments/assets/853d3706-25ae-468c-9d18-07becfc56449)
 
