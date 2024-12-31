@@ -1,0 +1,26 @@
+"workbench.colorCustomizations": {
+        "[Anomander]": {
+            "gitDecoration.modifiedResourceForeground": "#818600",
+            "gitDecoration.untrackedResourceForeground": "#008616",
+            "gitDecoration.deletedResourceForeground": "#bd3636",
+            "list.warningForeground": "#d89055da",
+            "list.errorForeground": "#d04343de",
+            "editorCursor.foreground": "#00ffea",
+            "editorCursor.background": "#121219",
+            "editor.lineHighlightBorder": "#604eff38",
+            "debugView.stateLabelForeground": "#00bdaa",
+            "debugView.stateLabelBackground": "#090910",
+            "debugView.exceptionLabelForeground": "#cc3d3d",
+            "debugView.exceptionLabelBackground": "#090910",
+            "debugExceptionWidget.border": "#604eff",
+            "statusBar.debuggingBackground": "#604eff",
+            "statusBar.debuggingForeground": "#e1e1ff",
+            "debugTokenExpression.boolean": "#bc80c8da",
+            "debugTokenExpression.number": "#4ca0ffd6",
+            "debugTokenExpression.name": "#00bdaa",
+            "debugTokenExpression.type": "#3c75df",
+            "debugTokenExpression.value": "#7eb0ea",
+            "debugTokenExpression.string": "#8b7eff",
+            "debugTokenExpression.error": "#cc3d3d",
+        }
+    }
