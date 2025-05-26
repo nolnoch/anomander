@@ -1094,6 +1094,18 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{	
+			"scope": "support.function.cmake",
+			"settings": {
+				"foreground": "#cc8bda"
+			}
+		},
+		{
+			"scope": "support.function.commandProperty.cmake",
+			"settings": {
+				"foreground": "#21478D"
+			}
 		}
 	]
 }
