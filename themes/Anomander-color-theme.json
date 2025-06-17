@@ -234,6 +234,11 @@
 			"foreground": "#37afa3",
 			"bold": false
 		},
+		"selfParameter": {
+			"foreground": "#7a7ab1",
+			"bold": false,
+			"underline": false
+		},
 		"templateType": {
 			"foreground": "#37afa3",
 			"bold": false
@@ -955,7 +960,8 @@
 		{
 			"scope": [
 				"keyword.control.directive",
-				"keyword.other.using"
+				"keyword.other.using",
+				"keyword.control.import.python"
 			],
 			"settings": {
 				"foreground": "#31A2CC",
@@ -979,6 +985,15 @@
 			"settings": {
 				"foreground": "#6F2F2F",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.flow.python"
+			],
+			"settings": {
+				"foreground": "#BC80C8",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1028,6 +1043,22 @@
 		},
 		{
 			"scope": [
+				"meta.function-call.generic.python"
+			],
+			"settings": {
+				"foreground": "#4EC9B0"
+			}
+		},
+		{
+			"scope": [
+				"meta.item-access.arguments.python"
+			],
+			"settings": {
+				"foreground": "#6F2F2F"
+			}
+		},
+		{
+			"scope": [
 				"variable",
 				"variable.other.object.access"
 			],
@@ -1049,7 +1080,9 @@
 			"scope": [
 				"variable.other.object.property",
 				"variable.other.property",
-				"variable.property"
+				"variable.property",
+				"meta.attribute.python",
+				"meta.indexed-name.python"
 			],
 			"settings": {
 				"foreground": "#4F7EB0"

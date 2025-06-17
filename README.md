@@ -6,7 +6,7 @@ Inspired by the epic, high-fantasy equivalent of "xXSephirothXx": [Anomander Rak
 
 Very dark, low-contrast theme anchored primarily in blue, green, and purple. Accents in white, gray, pink, and red to break up the monotony.
 
-Syntax and symantic colouring based on C/C++. Works (but may not be currently ideal) for CMake, JSON, and Python.
+Syntax and symantic colouring based on C/C++ first and Python second. Works (but may not be currently ideal) for CMake, JSON, and Dockerfiles.
 
 Tested (and currently used) on four monitors, across Linux/Windows PC and MacBook Pro.
 
